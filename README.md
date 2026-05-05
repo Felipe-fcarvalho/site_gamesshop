@@ -1,4 +1,4 @@
-# Ebac | Site Games Shop
+# Ebac | Projeto 1 - Site Games Shop
 
 ## Detalhes do exercício:
 
